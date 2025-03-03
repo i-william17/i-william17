@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a MERN stack multivendor e-commerce website.<br>Just completed a React frontend organization website.<br>Computer Science student<br>Began learning Python.<br>Work in progress software engineer. <br>App developer with both Flutter and React Native 
+Computer Science major.<br>Python and JavaScript developer.<br>Work in progress software engineer. <br>App developer with both Flutter and React Native 
 
 
 ## 🌐 Socials:
